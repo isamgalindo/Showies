@@ -1,0 +1,74 @@
+.HE-header {
+    background-color: #B71A40;
+    display: flex;
+    padding: 1.5vmin 0;
+    justify-content: space-between;
+}
+
+.HE-logoName{
+    display: flex;
+    text-decoration: none;
+}
+  
+.HE-logo {
+    margin-left: 1.5vmin;
+    height: 5vmin;
+    cursor: pointer;
+}
+  
+.HE-name {
+    margin-left: 1vmin;
+    font-size: 4vmin;
+    color: white;
+    cursor: pointer;
+}
+
+.HE-right{
+    display: flex;
+    margin-right: 2vmin;
+}
+
+.HE-contactFAQs{
+    display: flex;
+    margin-right: 1.5vmin;
+    font-size: 3.5vmin;
+}
+
+.HE-contact{
+    text-align: right;
+    color: white;
+    font-weight: normal;
+    cursor: pointer;
+    margin-right: 1vmin;
+    text-decoration: none;
+}
+
+.HE-separator{
+    text-align: right;
+    color: white;
+    font-weight: normal;
+
+}
+
+.HE-FAQs{
+    color: white;
+    font-weight: normal;
+    cursor: pointer;
+    margin-left: 1vmin;
+
+}
+
+.HE-UserLogin {
+    display: flex;
+    margin-right: 1.5vmin;
+}
+
+.HE-login {
+    margin-right: 1.5vmin;
+    height: 5vmin;
+    cursor: pointer;
+}
+
+.HE-language-selector{
+    margin-right: 1vmin !important;
+}

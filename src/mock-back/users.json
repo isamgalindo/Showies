@@ -1,0 +1,16 @@
+[
+    {
+        "id": "83a5bc1c-1e76-41d9-8bef-8c92d5b52185",
+        "name": "Laura Restrepo",
+        "email": "l.restrepop@uniandes.edu.co",
+        "password": "Tommy2013",
+        "watching": []
+    },
+    {
+        "id": "bc85d923-857e-4d25-8e7d-c7f7fa7a8b8b",
+        "name": "Isabela Martinez",
+        "email": "l.martinezg@uniandes.edu.co",
+        "password": "Pepe2020",
+        "watching": []
+    }
+]

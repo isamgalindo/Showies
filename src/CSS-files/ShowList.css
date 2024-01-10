@@ -1,0 +1,115 @@
+.SL-container {
+    flex-wrap: wrap;
+}
+
+.SL-your-shows {
+    margin-top: 0 !important;
+    margin-left: 6vmin;
+    font-size: 5.5vmin !important;
+    font-weight: inherit;
+    text-align: left;
+    margin-bottom: -1vmin;
+}
+
+.SL-sort-filter-search {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 0vmin !important;
+}
+
+.SL-filter-sort {
+    margin-left: 6vmin;
+    font-size: 3.5vmin;
+    margin-top: 0vmin !important;
+    display: flex;
+    flex-wrap: wrap !important;
+}
+
+.SL-filter{
+    padding-right: 2vmin !important;
+}
+
+.SL-search-bar {
+   margin-bottom: 2vmin;
+}
+
+.SL-shows {
+    text-align: center;
+    margin-left: 6vmin;
+    margin-right: 6vmin;
+    font-size: 6vmin;
+    display: flex;
+    margin-top: 3vmin;
+    position: relative; 
+    overflow-x: auto; 
+    margin-top: 2vmin;
+}
+
+.SL-arrows {
+    flex: 1;
+    cursor: pointer;
+    margin-top: 3%;
+}
+
+.SL-left-arrow {
+    position: fixed;
+    left: 0;
+    margin-left: 6vmin;
+    background-color: white;
+    border-radius: 50%;
+}
+
+.SL-right-arrow {
+    position: fixed;
+    margin-right: 6vmin;
+    right: 0;
+    background-color: white;
+    border-radius: 50%;
+}
+
+
+.SL-show-cards {
+    margin-left: 6vmin;
+    margin-right: 6vmin;
+    display: flex;
+    scroll-behavior: smooth;
+    white-space: nowrap;
+    margin-bottom: 3vmin;
+    margin-top: 0.5vmin;
+}
+
+.SL-poster {
+    height: 20vmin;
+    cursor: pointer;
+}
+
+.SL-name {
+    font-size: 3.5vmin;
+    cursor: pointer;
+    white-space: nowrap; 
+    overflow: hidden;
+    text-overflow: ellipsis; 
+}
+
+.SL-progress {
+    font-size: 3vmin;
+    cursor: pointer;
+}
+
+.SL-item {
+    display: inline-block;
+    margin: 0 10px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
+.SL-lazy {
+    text-align: center;
+    font-size: 5vmin;
+    font-weight: normal !important;
+    margin-top: 5vmin;
+}
+  

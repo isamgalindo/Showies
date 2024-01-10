@@ -1,0 +1,46 @@
+.C-main{
+    justify-content: center;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 3vmin !important;
+    margin-bottom: 2vmin;
+    margin-left: 1vmin;
+    margin-right: 1vmin;
+    font-size: 4vmin !important;
+}
+
+.C-first{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.C-member{ 
+    display: flex; 
+    margin-top: 5vmin;
+}
+
+.C-second{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 5vmin;
+    flex-wrap: wrap;
+}
+
+img {
+    height: 20vmin;
+}
+
+h1 {
+    font-size: 5vmin !important;
+    margin-left: 1vmin;
+    font-weight: inherit !important;
+}
+
+p {
+    margin-left: 1vmin;
+    font-size: 3vmin;
+    font-weight: normal !important;
+}

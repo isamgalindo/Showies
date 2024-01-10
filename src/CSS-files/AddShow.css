@@ -1,0 +1,142 @@
+.AS-container{
+    text-align: center;
+    margin-bottom: 2vmin;
+  }
+  
+.AS-button{
+    color: white;
+    background-color: #B71A40;
+    height: 5vmin;
+    border: none;
+    font-size: 3vmin;
+    font-family: inherit;
+    font-weight: inherit;
+    border-radius: 0.5vmin;
+    padding-left: 1.5vmin;
+    padding-right: 1.5vmin;
+    cursor: pointer;
+    margin-top: 1vmin;
+    padding-top: 0.5vmin !important;
+}
+
+.AS-plus {
+    font-size: 2vmin;
+    padding-bottom: 0.2vmin !important;
+}
+
+.AS-dim {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 999; 
+}
+
+.AS-popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding-bottom: 2vmin;
+    border-radius: 0.5vmin;
+    box-shadow: 0 0 10vmin rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+    width: 45vmin; 
+    height: 50vmin;
+}
+
+.AS-header{
+    background-color: #B71A40;
+    color: white;
+    font-size: 3vmin;
+    padding-top: 0.5vmin;
+    padding-bottom: 0.5vmin;
+    margin-bottom: 2vmin;
+    border-top-left-radius: inherit;
+    border-top-right-radius: inherit; 
+    display: flex;
+    justify-content: center;
+}
+
+.AS-content{
+    overflow-y: auto;
+    padding-top: 0.5vmin;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* .AS-title{
+
+}
+
+.AS-exit{
+
+} */
+
+.AS-popup-input{
+    font-family: inherit;
+    font-weight: inherit;
+    text-align: left;
+    background-color: #e8e8e8;
+    border: none;
+    border-radius: 0.5vmin;
+    font-size: 2vmin !important;
+    width: 35vmin !important;
+    height: 5vmin !important;
+    padding-left: 1vmin !important;
+    padding-right: 1vmin !important;
+}
+
+ul {
+    padding-left: 2vmin !important;
+    padding-right: 2vmin !important;
+    padding-bottom: 0.5vmin !important;
+}
+
+.AS-mandatory-fields{
+    color: #707070;
+    text-align: left;
+    font-size: 2vmin;
+    padding-left: 5vmin;
+    font-weight: inherit !important;
+}
+
+.AS-add-cancel{
+    text-align: center !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.AS-add{
+    font-family: inherit !important;
+    font-size: 2vmin !important;
+    color: white;
+    background-color: #B71A40;
+    border: none;
+    font-weight: inherit;
+    border-radius: 0.5vmin;
+    padding: 1vmin;
+}
+
+.AS-cancel{
+    color: #707070;
+    font-weight: inherit !important;
+    font-size: 2vmin;
+    text-decoration: underline;
+    margin-top: 1vmin;
+    margin-bottom: 0;
+    background-color: transparent;
+    padding: 0 !important;
+    border: none !important;
+}
+
+
+
+

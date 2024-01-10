@@ -1,0 +1,38 @@
+[
+    {
+        "userId": "83a5bc1c-1e76-41d9-8bef-8c92d5b52185",
+        "showId": "63830d72-6189-4653-9a87-deb775469726",
+        "season": 1,
+        "episode": 1,
+        "lastSeen": "15/11/2023",
+        "user": {
+            "id": "83a5bc1c-1e76-41d9-8bef-8c92d5b52185",
+            "name": "Laura Restrepo",
+            "email": "l.restrepop@uniandes.edu.co",
+            "password": "Tommy2013"
+        },
+        "show": {
+            "id": "63830d72-6189-4653-9a87-deb775469726",
+            "name": "Attack on Titan",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNDFjYTIxMjctYTQ2ZC00OGQ4LWE3OGYtNDdiMzNiNDZlMDAwXkEyXkFqcGdeQXVyNzI3NjY3NjQ@._V1_FMjpg_UX1000_.jpg"
+        }
+    },
+    {
+        "userId": "83a5bc1c-1e76-41d9-8bef-8c92d5b52185",
+        "showId": "ed597572-506e-4316-ad6a-7d406632714a",
+        "season": 1,
+        "episode": 1,
+        "lastSeen": "15/11/2023",
+        "user": {
+            "id": "83a5bc1c-1e76-41d9-8bef-8c92d5b52185",
+            "name": "Laura Restrepo",
+            "email": "l.restrepop@uniandes.edu.co",
+            "password": "Tommy2013"
+        },
+        "show": {
+            "id": "ed597572-506e-4316-ad6a-7d406632714a",
+            "name": "Jujutsu Kaisen",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTMwMDM4N2EtOTJiYy00OTQ0LThlZDYtYWUwOWFlY2IxZGVjXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg"
+        }
+    }
+]

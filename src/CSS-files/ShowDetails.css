@@ -1,0 +1,74 @@
+.SD-show-details{
+    display:flex;
+    margin-top: 2vmin;
+    margin-bottom: 0 !important;
+}
+
+.SD-poster{
+    height: 32vmin;
+    margin-left: 6vmin;
+    margin-bottom: 2vmin;
+    margin-top: 2vmin;
+}
+
+.SD-info{
+    margin-left: 2vmin;
+}
+
+.SD-name{
+    margin-top: 2vmin;
+    font-size: 4.5vmin;
+    margin-bottom: 0;
+    font-weight: inherit;
+    margin-left: 0;
+}
+
+.SD-edit-name{
+    margin-top: 2vmin;
+    font-size: 3.5vmin;
+    margin-bottom: 0;
+    font-weight: inherit;
+    margin-left: 0;
+    height: 5.5vmin;
+}
+
+.SD-details{
+    color: #B71A40;
+    margin-top: 1vmin;
+    font-size: 3.5vmin;
+    margin-bottom: 2vmin;
+    flex-wrap: wrap;
+}
+
+.SD-edit-genre{
+    font-size: 3vmin;
+    font-weight: inherit;
+    margin-top: 1vmin;
+    margin-left: 1vmin;
+    height: 4.5vmin;
+}
+
+.SD-minus{
+    cursor: pointer;
+    margin-left: 1vmin;
+    font-size: 3vmin;
+    user-select: none;
+}
+
+.SD-plus{
+    cursor: pointer;
+    margin-left: 1vmin;
+    font-size: 3vmin;
+    user-select: none;
+}
+
+.SD-lazy{
+    text-align: center;
+    font-size: 5vmin;
+    font-weight: normal !important;
+    margin-top: 5vmin;
+}
+
+.SD-delete{
+    display: flex;
+}

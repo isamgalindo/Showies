@@ -1,0 +1,88 @@
+{
+    "AS-button" : "Add show",
+    "AS-header" : "Add show",
+    "AS-name-placeholder" : "Name*",
+    "AS-season-placeholder" : "Season*",
+    "AS-episode-placeholder" : "Episode*",
+    "AS-genre-placeholder" : "Genre*",
+    "AS-poster-placeholder" : "Link to thumbnail",
+    "AS-mandatory-fields" : "*Mandatory fields",
+    "AS-add" : "Add",
+    "AS-cancel" : "Cancel",
+    "AS-mandatory-fields-alert" : "Please fill all mandatory fields",
+    "AS-season-episode-alert" : "Season and episode fields must be positive numbers",
+    "AS-logged-in": "You must be logged in to add a show",
+    "AS-already-watching": "It seems you're already watching that show",
+
+    "App-contact-lazy" : "Loading...",
+
+    "C-header" : "Whatever question you have, you can contact one of the Showies developers:",
+    "C-mail" : "Email",
+    "C-leader" : "Leader",
+
+    "DB-text" : "Delete",
+    "DB-confirmation" : "Are you sure that you want to delete this show?",
+    "DB-no" : "No",
+    "DB-yes" : "Yes",
+
+    "GF-filter" : "Genre filter",
+    "GF-default" : "All genres",
+
+    "HE-contact" : "Contact",
+    "HE-FAQs": "FAQs",
+    "HE-wip" : "work in progress...",
+
+    "HO-welcome-message" : "What are you watching right now?",
+    "HO-explanation" : "Keep track of the shows you are watching",
+    "HO-lazy" : "Loading shows...",
+
+    "L-show-password": "Show password",
+    "L-invalid-email-password": "Invalid email or password",
+    "L-header" : "Log in",
+    "L-login" : "Log in",
+    "L-mail-placeholder" : "Email",
+    "L-password-placeholder" : "Password",
+    "L-non-user" : "Not a user yet? Create an account now",
+
+    "LO-button": "Log out",
+    "LO-confirm": "Are you sure you want to log out?",
+    "LO-please-login": "Please log in to view your information",
+    
+    "OB-name": "Name",
+    "OB-date": "Last seen",
+    "OB-order": "Order by",
+
+    "SB-search-bar-placeholder" : "Search...",
+    "SB-button" : "Search",
+
+    "SD-poster-alt" : "Thumbnail",
+    "SD-season" : "Season:",
+    "SD-episode" : "Episode:",
+    "SD-genres" : "Genres:",
+    "SD-last-seen" : "Last seen on:",
+    "SD-delete" : "Delete",
+    "SD-lazy" : "Loading shows...",
+
+    "SL-lazy" : "Loading...",
+    "SL-poster-alt" : "Thumbnail",
+    "SL-season-letter" : "S",
+    "SL-episode-letter" : "E",
+    "SL-your-shows" : "Your shows",
+    
+    "SU-email-warning": "Your email must follow an established format",
+    "SU-password-warning": "Your password must be at least 8 characters long",
+    "SU-password-conf-warning": "Passwords must match",
+    "SU-show-passwords": "Show passwords",
+    "SU-name-placeholder": "Name*", 
+    "SU-already-signed-in" : "It seems like you already signed in!",
+    "SU-mandatory-fields-alert" : "Please fill all mandatory fields",
+    "SU-user-created" : "Your account has been created",
+    "SU-welcome-message" : "Create account",
+    "SU-mail-placeholder" : "Email*",
+    "SU-password-placeholder" : "Password*",
+    "SU-password-confirm-placeholder" : "Confirm password*",
+    "SU-mandatory-fields" : "*Mandatory fields",
+    "SU-create" : "Create",
+    "SU-email-fail": "The given email is already in use"
+
+} 

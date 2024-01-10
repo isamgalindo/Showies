@@ -1,0 +1,32 @@
+.search-container {
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 6vmin;
+    margin-left: 6vmin;
+    display: flex;
+    flex-wrap: wrap;
+    border: 0.2vmin solid #e8e8e8;
+    border-radius: 0.8vmin;
+}
+
+.SB-input {
+    padding: 1vmin;
+    width: 20vmin;
+    border: none;
+    background-color: inherit;
+    border-radius: inherit;
+    font-size: 2.5vmin;
+}
+
+.SB-input:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.SB-magnifying {
+    margin-left: 1vmin;
+    margin-right: 1vmin;
+    color: #707070;
+    font-size: 3vmin;
+}
+

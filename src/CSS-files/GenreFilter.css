@@ -1,0 +1,13 @@
+.genre-filter-container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 55vmin;
+  }
+
+.form-control{
+  font-size: 2.4vmin;
+  width: 25vmin;
+  overflow: hidden; 
+  text-overflow: ellipsis;
+}
+  

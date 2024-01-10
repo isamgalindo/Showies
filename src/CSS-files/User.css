@@ -1,0 +1,56 @@
+.USR-invalid-input {
+    border: 2px solid red !important; 
+}
+  
+.USR-invalid-input:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.USR-container {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.USR-welcome-message{
+    text-align: center;
+    margin-top: 5vmin;
+    margin-bottom: 0;
+    font-size: 5vmin !important;
+    font-weight: inherit;
+  
+  }
+  
+.USR-lazy{
+  text-align: center;
+  font-size: 5vmin;
+  font-weight: normal !important;
+  margin-top: 5vmin;
+}
+
+.USR-signUp{
+    color:black;
+
+}
+
+.USR-mandatory-fields {
+    font-weight: inherit;
+    align-self: flex-start;
+    font-size: 2.5vmin;
+    color: #707070;
+    margin-top: 2.5vmin;
+}
+
+.USR-button{
+    font-family: inherit !important;
+    font-size: 2.5vmin !important;
+    color: white;
+    background-color: #B71A40;
+    border: none;
+    font-weight: inherit;
+    border-radius: 0.5vmin;
+    cursor: pointer;
+    height: 6vmin !important;
+}

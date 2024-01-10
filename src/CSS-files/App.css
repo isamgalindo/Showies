@@ -1,0 +1,12 @@
+.App {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: bolder;
+}
+
+.C-lazy{
+  text-align: center;
+  font-size: 5vmin;
+  font-weight: normal !important;
+  margin-top: 5vmin;
+}
+

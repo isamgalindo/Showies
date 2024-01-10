@@ -1,0 +1,70 @@
+{
+  "name": "front",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "bootstrap": "^5.3.2",
+    "cypress": "^13.3.2",
+    "exec-sh": "^0.4.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.9.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.11.0",
+    "react-intl": "^6.4.7",
+    "react-router-dom": "^6.17.0",
+    "react-scripts": "^5.0.1",
+    "react-select": "^5.8.0",
+    "react-select-event": "^5.5.1",
+    "uuid": "^9.0.1",
+    "web-vitals": "^2.1.4",
+    "workbox-background-sync": "^6.5.4",
+    "workbox-broadcast-update": "^6.5.4",
+    "workbox-cacheable-response": "^6.5.4",
+    "workbox-core": "^6.5.4",
+    "workbox-expiration": "^6.5.4",
+    "workbox-google-analytics": "^6.5.4",
+    "workbox-navigation-preload": "^6.5.4",
+    "workbox-precaching": "^6.5.4",
+    "workbox-range-requests": "^6.5.4",
+    "workbox-routing": "^6.5.4",
+    "workbox-strategies": "^6.5.4",
+    "workbox-streams": "^6.5.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "test-add-show": "react-scripts test AddShow.test.js",
+    "test-delete-button": "react-scripts test DeleteButton.test.js",
+    "test-genre-filter": "react-scripts test GenreFilter.test.js",
+    "test-language-selector": "react-scripts test LanguageSelector.test.js",
+    "test-login": "react-scripts test Login.test.js",
+    "test-order-by": "react-scripts test OrderBy.test.js",
+    "test-search-bar": "react-scripts test SearchBar.test.js",
+    "test-show-details": "react-scripts test ShowDetails.test.js",
+    "test-show-list": "react-scripts test ShowList.test.js",
+    "test-sign-up": "react-scripts test SignUp.test.js",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

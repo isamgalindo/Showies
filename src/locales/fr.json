@@ -1,0 +1,88 @@
+{
+    "AS-button" : "Ajouter série",
+    "AS-header" : "Ajouter série",
+    "AS-name-placeholder" : "Nom*",
+    "AS-season-placeholder" : "Saison*",
+    "AS-episode-placeholder" : "Épisode*",
+    "AS-genre-placeholder" : "Genre*",
+    "AS-poster-placeholder" : "Lien miniature",
+    "AS-mandatory-fields" : "*Champs obligatoires",
+    "AS-add" : "Ajouter",
+    "AS-cancel" : "Annuler",
+    "AS-mandatory-fields-alert" : "Merci de remplir tous les champs obligatoires",
+    "AS-season-episode-alert" : "Les champs 'Saison' et 'Épisode' doivent être des nombres positifs",
+    "AS-logged-in": "Vous devez être connecté pour ajouter une série",
+    "AS-already-watching": "Il semble que tu regardes déjà cette série",
+
+    "App-contact-lazy" : "Chargement en cours...",
+
+    "C-header" : "Quelque soit ta question, tu peux contacter un des développeurs de Showies:",
+    "C-mail" : "Email",
+    "C-leader" : "Leader",
+
+    "DB-text" : "Supprimer",
+    "DB-confirmation" : "Es-tu sûr(e) de vouloir supprimer cette série?",
+    "DB-no" : "Non",
+    "DB-yes" : "Oui",
+
+    "GF-filter" : "Filtrer par genre",
+    "GF-default" : "Tous les genres",
+
+    "HE-contact" : "Contact",
+    "HE-FAQs": "FAQs",
+    "HE-wip" : "travail en cours...",
+
+    "HO-welcome-message" : "Que regardes-tu en ce moment?",
+    "HO-explanation" : "Tiens-toi à jour des séries que tu regardes",
+    "HO-lazy" : "Chargement des séries...",
+
+    "L-show-password": "Montrer le mot de passe",
+    "L-invalid-email-password": "Email ou mot de passe invalide",
+    "L-header" : "Connexion",
+    "L-login" : "Se connecter",
+    "L-mail-placeholder" : "Email",
+    "L-password-placeholder" : "Mot de passe",
+    "L-non-user" : "Pas encore utilisateur? Crée un compte maintenant",
+
+    "LO-button": "Se déconnecter",
+    "LO-confirm": "Êtes-vous sûr de vouloir vous déconnecter?",
+    "LO-please-login": "Veuillez vous connecter pour voir vos informations",
+
+    "OB-name": "Nom",
+    "OB-date": "Vue pour la dernière fois",
+    "OB-order": "Trier par",
+
+    "SB-search-bar-placeholder" : "Recherche...",
+    "SB-button" : "Recherche",
+
+    "SD-poster-alt" : "Miniature",
+    "SD-season" : "Saison:",
+    "SD-episode" : "Épisode:",
+    "SD-genres" : "Genres:",
+    "SD-last-seen" : "Vue pour la dernière fois:",
+    "SD-delete" : "Supprimer",
+    "SD-edit-save" : "Sauvegarder",
+    "SD-lazy" : "Chargement des séries...",
+
+    "SL-lazy" : "Chargement en cours...",
+    "SL-poster-alt" : "Miniature",
+    "SL-season-letter" : "S",
+    "SL-episode-letter" : "E",
+    "SL-your-shows" : "Tes séries",
+    
+    "SU-email-warning": "Votre e-mail doit suivre un format établi",
+    "SU-password-warning": "Votre mot de passe doit comporter au moins 8 caractères",
+    "SU-password-conf-warning": "Les mots de passe doivent correspondre",
+    "SU-show-passwords": "Montrer les mots de passe",
+    "SU-name-placeholder": "Nom*", 
+    "SU-already-signed-in" : "Il semblerait que tu sois déjà connecté!",
+    "SU-mandatory-fields-alert" : "Merci de remplir tous les champs obligatoires",
+    "SU-user-created" : "Votre compte utilisateur a été crée",
+    "SU-welcome-message" : "Créer compte",
+    "SU-mail-placeholder" : "Email*",
+    "SU-password-placeholder" : "Mot de passe*",
+    "SU-password-confirm-placeholder" : "Confirmer mot de passe*",
+    "SU-mandatory-fields" : "*Champs obligatoires",
+    "SU-create" : "Créer",
+    "SU-email-fail": "L'e-mail fourni est déjà utilisé"
+} 

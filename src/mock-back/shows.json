@@ -1,0 +1,944 @@
+[
+    {
+        "id": "63830d72-6189-4653-9a87-deb775469726",
+        "name": "Attack on Titan",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDFjYTIxMjctYTQ2ZC00OGQ4LWE3OGYtNDdiMzNiNDZlMDAwXkEyXkFqcGdeQXVyNzI3NjY3NjQ@._V1_FMjpg_UX1000_.jpg",
+        "genres": [
+            {
+                "id":"499eb266-d4ee-4cb0-8a29-604fd4cfb90a",
+                "nameEN":"Action", 
+                "nameES":"Acción", 
+                "nameFR":"Action"
+            },
+            {
+                "id":"60724974-8c5c-4ef7-8f59-0fa98584b104",
+                "nameEN":"Animation", 
+                "nameES":"Animación", 
+                "nameFR":"Animation"
+            },
+            {
+                "id":"70f8a36c-9169-4d3b-9e26-071f012e28aa",
+                "nameEN":"Adventure", 
+                "nameES":"Aventura", 
+                "nameFR":"Aventure"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "ed597572-506e-4316-ad6a-7d406632714a",
+        "name": "Jujutsu Kaisen",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTMwMDM4N2EtOTJiYy00OTQ0LThlZDYtYWUwOWFlY2IxZGVjXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",
+        "genres": [
+            {
+                "id":"499eb266-d4ee-4cb0-8a29-604fd4cfb90a",
+                "nameEN":"Action", 
+                "nameES":"Acción", 
+                "nameFR":"Action"
+            },
+            {
+                "id":"70f8a36c-9169-4d3b-9e26-071f012e28aa",
+                "nameEN":"Adventure", 
+                "nameES":"Aventura", 
+                "nameFR":"Aventure"
+            },
+            {
+                "id":"60724974-8c5c-4ef7-8f59-0fa98584b104",
+                "nameEN":"Animation", 
+                "nameES":"Animación", 
+                "nameFR":"Animation"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "18f64548-1e1b-467b-9eaa-e707e89c6d8e",
+        "name": "Haikyuu!!",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjkyNDI2MTgtN2Y3NS00M2RjLWJhNDMtMmNmZmUwMDQwZTE1XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",
+        "genres": [
+            {
+                "id":"60724974-8c5c-4ef7-8f59-0fa98584b104",
+                "nameEN":"Animation", 
+                "nameES":"Animación", 
+                "nameFR":"Animation"
+            },
+            {
+                "id":"d4abdf63-dae3-4857-92c8-5e507f43ef3c",
+                "nameEN":"Comedy", 
+                "nameES":"Comedia", 
+                "nameFR":"Comédie"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "9ff2b7d5-8970-42a2-87f9-401948d5fb02",
+        "name": "Friends",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+        "genres": [
+            {
+                "id":"d4abdf63-dae3-4857-92c8-5e507f43ef3c",
+                "nameEN":"Comedy", 
+                "nameES":"Comedia", 
+                "nameFR":"Comédie"
+            },
+            {
+                "id":"416663d9-9a7a-4419-82c6-169c6c5c5052",
+                "nameEN":"Romance", 
+                "nameES":"Romance", 
+                "nameFR":"Romance"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "60a52ef7-399e-457e-9fac-f524bebfc237",
+        "name": "Breaking Bad",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTU3NWI5OGMtZmZhNy00MjVmLTk1YzAtZjA3ZDA3NzcyNDUxXkEyXkFqcGdeQXVyODY5Njk4Njc@._V1_.jpg",
+        "genres": [
+            {
+                "id":"53a2d079-ec35-4b26-be3f-561311b04f3f",
+                "nameEN":"Crime", 
+                "nameES":"Crimen", 
+                "nameFR":"Crime"
+            },
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            },
+            {
+                "id":"0d1aa973-c906-4ce5-9de7-9c4324bc5c46",
+                "nameEN":"Thriller", 
+                "nameES":"Suspenso", 
+                "nameFR":"Thriller"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "7bcf223d-b5e2-0cc2-d176-f8c67a2fcada",
+        "name": "Game of Thrones",
+        "poster": "https://i.insider.com/56cdecd62e526554008b9413?width=1000&format=jpeg&auto=webp",
+        "genres": [
+            {
+                "id":"499eb266-d4ee-4cb0-8a29-604fd4cfb90a",
+                "nameEN":"Action", 
+                "nameES":"Acción", 
+                "nameFR":"Action"
+            },
+            {
+                "id":"70f8a36c-9169-4d3b-9e26-071f012e28aa",
+                "nameEN":"Adventure", 
+                "nameES":"Aventura", 
+                "nameFR":"Aventure"
+            },
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "7ffaf3bb-aa48-aa3e-af9a-abedddf3fcfe",
+        "name": "The Office",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDNkOTE4NDQtMTNmYi00MWE0LWE4ZTktYTc0NzhhNWIzNzJiXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg",
+        "genres": [
+            {
+                "id":"d4abdf63-dae3-4857-92c8-5e507f43ef3c",
+                "nameEN":"Comedy", 
+                "nameES":"Comedia", 
+                "nameFR":"Comédie"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "aec20e7b-a2f5-ffea-f336-5a686cea00c2",
+        "name": "Stranger Things",
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2EyZWIwYjItZWM2Mi00YzM1LWFhYzQtZGZmYzlhNWZkYWQyXkEyXkFqcGdeQXVyNDI0MTA5NTE@._V1_.jpg",
+        "genres": [
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            },
+            {
+                "id":"de36a146-3f8d-4238-90c7-500d34e77353",
+                "nameEN":"Fantasy", 
+                "nameES":"Fantasía", 
+                "nameFR":"Fantaisie"
+            },
+            {
+                "id":"5ae2f56f-3866-4649-9801-bd98922cf39c",
+                "nameEN":"Horror", 
+                "nameES":"Horror", 
+                "nameFR":"Horreur"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "6c2b62c0-39e8-dcbe-f377-b2668c17538e",
+        "name": "The Simpsons",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
+        "genres": [
+            {
+                "id":"60724974-8c5c-4ef7-8f59-0fa98584b104",
+                "nameEN":"Animation", 
+                "nameES":"Animación", 
+                "nameFR":"Animation"
+            },
+            {
+                "id":"d4abdf63-dae3-4857-92c8-5e507f43ef3c",
+                "nameEN":"Comedy", 
+                "nameES":"Comedia", 
+                "nameFR":"Comédie"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "0b5f40ba-982b-8fc3-da1e-ee723a62075e",
+        "name": "The Big Bang Theory",
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2FmZTY5YTktOWRlYy00NmIyLWE0ZmQtZDg2YjlmMzczZDZiXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_.jpg",
+        "genres": [
+            {
+                "id":"d4abdf63-dae3-4857-92c8-5e507f43ef3c",
+                "nameEN":"Comedy", 
+                "nameES":"Comedia", 
+                "nameFR":"Comédie"
+            },
+            {
+                "id":"416663d9-9a7a-4419-82c6-169c6c5c5052",
+                "nameEN":"Romance", 
+                "nameES":"Romance", 
+                "nameFR":"Romance"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "83d9657f-9478-c423-16ba-d2e4d7d8e9e4",
+        "name": "Grey's Anatomy",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODA2Mjk0N2MtNGY0Mi00ZWFjLTkxODEtZDFjNDg4ZDliMGVmXkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_FMjpg_UX1000_.jpg",
+        "genres": [
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            },
+            {
+                "id":"416663d9-9a7a-4419-82c6-169c6c5c5052",
+                "nameEN":"Romance", 
+                "nameES":"Romance", 
+                "nameFR":"Romance"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "d3e8fde3-cefa-0f3e-cdfa-22dc581b46eb",
+        "name": "The Walking Dead",
+        "poster": "https://www.themoviedb.org/t/p/w500/n7PVu0hSz2sAsVekpOIoCnkWlbn.jpg",
+        "genres": [
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            },
+            {
+                "id":"5ae2f56f-3866-4649-9801-bd98922cf39c",
+                "nameEN":"Horror", 
+                "nameES":"Horror", 
+                "nameFR":"Horreur"
+            },
+            {
+                "id":"0d1aa973-c906-4ce5-9de7-9c4324bc5c46",
+                "nameEN":"Thriller", 
+                "nameES":"Suspenso", 
+                "nameFR":"Thriller"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "dfbce484-3e9c-df93-ca51-4c66dd8ced62",
+        "name": "The Crown",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjAxOTA2Mjc3MF5BMl5BanBnXkFtZTgwMTMxMzIxNDM@._V1_.jpg",
+        "genres": [
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            },
+            {
+                "id":"b99ea587-98af-40bf-aadc-6fcc371ff6e0",
+                "nameEN":"History", 
+                "nameES":"Historia", 
+                "nameFR":"Histoire"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "9eff880d-67d7-b949-6ad2-0055c57ac51c",
+        "name": "Dark",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_.jpg",
+        "genres": [
+            {
+                "id":"53a2d079-ec35-4b26-be3f-561311b04f3f",
+                "nameEN":"Crime", 
+                "nameES":"Crimen", 
+                "nameFR":"Crime"
+            },
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            },
+            {
+                "id":"79b43996-98e8-475b-9dfb-e67c55e04a46",
+                "nameEN":"Mystery", 
+                "nameES":"Misterio", 
+                "nameFR":"Mystère"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "cf3abb21-f8c7-968c-bbd7-4d7cd79df4ef",
+        "name": "Brooklyn Nine-Nine",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzVkYWY4NzYtMWFlZi00YzkwLThhZDItZjcxYTU4ZTMzMDZmXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_FMjpg_UX1000_.jpg",
+        "genres": [
+            {
+                "id":"d4abdf63-dae3-4857-92c8-5e507f43ef3c",
+                "nameEN":"Comedy", 
+                "nameES":"Comedia", 
+                "nameFR":"Comédie"
+            },
+            {
+                "id":"53a2d079-ec35-4b26-be3f-561311b04f3f",
+                "nameEN":"Crime", 
+                "nameES":"Crimen", 
+                "nameFR":"Crime"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "acdd94ce-0d9a-33ab-184f-48a5cad81df8",
+        "name": "Sex Education",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjJkYTI1MjAtNTcxZC00YmU5LWExMDAtZTg3YzRhMDNmYmEwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+        "genres": [
+            {
+                "id":"d4abdf63-dae3-4857-92c8-5e507f43ef3c",
+                "nameEN":"Comedy", 
+                "nameES":"Comedia", 
+                "nameFR":"Comédie"
+            },
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            }  
+        ],
+        "watching": []
+    },
+    {
+        "id": "d8be101b-e67d-97ec-6faf-23a93a2ddafb",
+        "name": "The Boys",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UX1000_.jpg",
+        "genres": [
+            {
+                "id":"499eb266-d4ee-4cb0-8a29-604fd4cfb90a",
+                "nameEN":"Action", 
+                "nameES":"Acción", 
+                "nameFR":"Action"
+            },
+            {
+                "id":"d4abdf63-dae3-4857-92c8-5e507f43ef3c",
+                "nameEN":"Comedy", 
+                "nameES":"Comedia", 
+                "nameFR":"Comédie"
+            },
+            {
+                "id":"53a2d079-ec35-4b26-be3f-561311b04f3f",
+                "nameEN":"Crime", 
+                "nameES":"Crimen", 
+                "nameFR":"Crime"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "1fc8e1ce-95bf-0efd-b11b-fef499b6afa0",
+        "name": "Arcane",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWYxNGJhNmQtZmI4OS00NjQ1LThmNzAtY2JkYmQ5NjliNDgwXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+        "genres": [
+            {
+                "id":"499eb266-d4ee-4cb0-8a29-604fd4cfb90a",
+                "nameEN":"Action", 
+                "nameES":"Acción", 
+                "nameFR":"Action"
+            },
+            {
+                "id":"70f8a36c-9169-4d3b-9e26-071f012e28aa",
+                "nameEN":"Adventure", 
+                "nameES":"Aventura", 
+                "nameFR":"Aventure"
+            },
+            {
+                "id":"60724974-8c5c-4ef7-8f59-0fa98584b104",
+                "nameEN":"Animation", 
+                "nameES":"Animación", 
+                "nameFR":"Animation"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "d54c70ce-c4e9-d67e-7d8f-ad7f3057e481",
+        "name": "Succession",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODY5YjA3ZDgtM2EwYy00ZGVmLWFhNWItMTMxMWRkMWFiOTlkXkEyXkFqcGdeQXVyMTMzNDExODE5._V1_FMjpg_UX1000_.jpg",
+        "genres": [
+            {
+                "id":"d4abdf63-dae3-4857-92c8-5e507f43ef3c",
+                "nameEN":"Comedy", 
+                "nameES":"Comedia", 
+                "nameFR":"Comédie"
+            },
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "e4a4b7f6-6cfe-20b5-7f5b-bb8baeac18eb",
+        "name": "Severance",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjkwZjcwMGQtNDAzOC00YjJiLThiYTgtNWU3ZjRiZmY2YzEzXkEyXkFqcGdeQXVyMTMzNDExODE5._V1_FMjpg_UX1000_.jpg",
+        "genres": [
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            },
+            {
+                "id":"79b43996-98e8-475b-9dfb-e67c55e04a46",
+                "nameEN":"Mystery", 
+                "nameES":"Misterio", 
+                "nameFR":"Mystère"
+            },
+            {
+                "id":"2efc15d8-d5d1-4baa-b1eb-6bd8f71bfda2",
+                "nameEN":"Sci-Fi", 
+                "nameES":"Ciencia Ficción", 
+                "nameFR":"Science-Fiction"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "0c38d56a-fd5d-43b3-935c-7ce8a6b9ede8",
+        "name": "Squid Game",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",
+        "genres": [
+            {
+                "id":"499eb266-d4ee-4cb0-8a29-604fd4cfb90a",
+                "nameEN":"Action", 
+                "nameES":"Acción", 
+                "nameFR":"Action"
+            },
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            },
+            {
+                "id":"79b43996-98e8-475b-9dfb-e67c55e04a46",
+                "nameEN":"Mystery", 
+                "nameES":"Misterio", 
+                "nameFR":"Mystère"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "b7cd7669-a2ea-852f-fd9b-17127aa8e153",
+        "name": "WandaVision",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGEwYmMwZmMtMTQ3MS00YWNhLWEwMmQtZTU5YTIwZmJjZGQ0XkEyXkFqcGdeQXVyMTI5MzA5MjA1._V1_.jpg",
+        "genres": [
+            {
+                "id":"499eb266-d4ee-4cb0-8a29-604fd4cfb90a",
+                "nameEN":"Action", 
+                "nameES":"Acción", 
+                "nameFR":"Action"
+            },
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            },
+            {
+                "id":"d4abdf63-dae3-4857-92c8-5e507f43ef3c",
+                "nameEN":"Comedy", 
+                "nameES":"Comedia", 
+                "nameFR":"Comédie"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "d91477b4-0577-bc1b-ff4e-8ad397c460ad",
+        "name": "The Queen's Gambit",
+        "poster": "https://m.media-amazon.com/images/I/61URhmbYDjL.jpg",
+        "genres": [
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "7f9cad09-bf63-a60c-573b-9ca34ee146e7",
+        "name": "Euphoria",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDMzZDkyNzEtYTY5Ni00NzlhLWI4MzUtY2UzNjNmMjI1YzIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
+        "genres": [
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "c8fa9fef-daff-922b-4bd0-b9b06fbd278c",
+        "name": "Fleabag",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjA4MzU5NzQxNV5BMl5BanBnXkFtZTgwOTg3MDA5NzM@._V1_.jpg",
+        "genres": [
+            {
+                "id":"d4abdf63-dae3-4857-92c8-5e507f43ef3c",
+                "nameEN":"Comedy", 
+                "nameES":"Comedia", 
+                "nameFR":"Comédie"
+            },
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "7517fefa-2889-cc27-cdf8-b11c6ce51393",
+        "name": "Skins",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzFkNWI4ZGEtZDhhOC00MGE5LWEzYmYtZGU5MGYxYjc5ZmZmXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg",
+        "genres": [
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "471ae3fb-e428-fc23-9a35-50dd9e6e6e8e",
+        "name": "Community",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDQ5NDZiYjktZmFmMy00MjAxLTk1MDktOGZjYTY5YTE1ODdmXkEyXkFqcGdeQXVyNjcwMzEzMTU@._V1_.jpg",
+        "genres": [
+            {
+                "id":"d4abdf63-dae3-4857-92c8-5e507f43ef3c",
+                "nameEN":"Comedy", 
+                "nameES":"Comedia", 
+                "nameFR":"Comédie"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "008a58ab-914b-52c0-8fbf-9f856a25ae64",
+        "name": "The Sopranos",
+        "poster": "https://i.pinimg.com/originals/09/cd/52/09cd52c69aa3f2d1ff0a7fa4e82ac511.jpg",
+        "genres": [
+            {
+                "id":"53a2d079-ec35-4b26-be3f-561311b04f3f",
+                "nameEN":"Crime", 
+                "nameES":"Crimen", 
+                "nameFR":"Crime"
+            },
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            }          
+        ],
+        "watching": []
+    },
+    {
+        "id": "2c35f8ec-f67a-5cd5-9a02-462c9c594c51",
+        "name": "Rick and Morty",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg",
+        "genres": [
+            {
+                "id":"70f8a36c-9169-4d3b-9e26-071f012e28aa",
+                "nameEN":"Adventure", 
+                "nameES":"Aventura", 
+                "nameFR":"Aventure"
+            },
+            {
+                "id":"60724974-8c5c-4ef7-8f59-0fa98584b104",
+                "nameEN":"Animation", 
+                "nameES":"Animación", 
+                "nameFR":"Animation"
+            },
+            {
+                "id":"d4abdf63-dae3-4857-92c8-5e507f43ef3c",
+                "nameEN":"Comedy", 
+                "nameES":"Comedia", 
+                "nameFR":"Comédie"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "80717d7f-9358-259f-5e65-bb54d1accbce",
+        "name": "Sherlock",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWEzNTFlMTQtMzhjOS00MzQ1LWJjNjgtY2RhMjFhYjQwYjIzXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_FMjpg_UX1000_.jpg",
+        "genres": [
+            {
+                "id":"53a2d079-ec35-4b26-be3f-561311b04f3f",
+                "nameEN":"Crime", 
+                "nameES":"Crimen", 
+                "nameFR":"Crime"
+            },
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            },
+            {
+                "id":"79b43996-98e8-475b-9dfb-e67c55e04a46",
+                "nameEN":"Mystery", 
+                "nameES":"Misterio", 
+                "nameFR":"Mystère"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "ebabc6ce-a497-4e6c-3119-cb2db1fcd4b0",
+        "name": "Better Call Saul",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDA4YmE0OTYtMmRmNS00Mzk2LTlhM2MtNjk4NzBjZGE1MmIyXkEyXkFqcGdeQXVyMTMzNDExODE5._V1_FMjpg_UX1000_.jpg",
+        "genres": [
+            {
+                "id":"53a2d079-ec35-4b26-be3f-561311b04f3f",
+                "nameEN":"Crime", 
+                "nameES":"Crimen", 
+                "nameFR":"Crime"
+            },
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "13cca053-5aac-09ab-ac84-ce49dcdd1f89",
+        "name": "Black Mirror",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTgyNTBkNzctN2I3NC00NTA1LWJiMDMtYzA2MmYyZjc1NWQzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+        "genres": [
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            },
+            {
+                "id":"79b43996-98e8-475b-9dfb-e67c55e04a46",
+                "nameEN":"Mystery", 
+                "nameES":"Misterio", 
+                "nameFR":"Mystère"
+            },
+            {
+                "id":"2efc15d8-d5d1-4baa-b1eb-6bd8f71bfda2",
+                "nameEN":"Sci-Fi", 
+                "nameES":"Ciencia Ficción", 
+                "nameFR":"Science-Fiction"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "498e8c5a-a7fc-fd90-794e-6f7e5f5eda9d",
+        "name": "House of the Dragon",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+        "genres": [
+            {
+                "id":"499eb266-d4ee-4cb0-8a29-604fd4cfb90a",
+                "nameEN":"Action", 
+                "nameES":"Acción", 
+                "nameFR":"Action"
+            },
+            {
+                "id":"70f8a36c-9169-4d3b-9e26-071f012e28aa",
+                "nameEN":"Adventure", 
+                "nameES":"Aventura", 
+                "nameFR":"Aventure"
+            },
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "ddccf36d-d4d7-cf5d-82db-93985fab33ac",
+        "name": "Peaky Blinders",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjYzZDgzMmYtYjY5Zi00YTk1LThhMDYtNjFlNzM4MTZhYzgyXkEyXkFqcGdeQXVyMTE5NDQ1MzQ3._V1_.jpg",
+        "genres": [
+            {
+                "id":"53a2d079-ec35-4b26-be3f-561311b04f3f",
+                "nameEN":"Crime", 
+                "nameES":"Crimen", 
+                "nameFR":"Crime"
+            },
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "1d4d598f-2aa6-f821-7857-eff06fe0a4f3",
+        "name": "Ozark",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDUxMWNlMTUtYTljZS00MTE0LTlkYjktOTU1ODZjYzBhMTk0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",
+        "genres": [
+            {
+                "id":"53a2d079-ec35-4b26-be3f-561311b04f3f",
+                "nameEN":"Crime", 
+                "nameES":"Crimen", 
+                "nameFR":"Crime"
+            },
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            },
+            {
+                "id":"0d1aa973-c906-4ce5-9de7-9c4324bc5c46",
+                "nameEN":"Thriller", 
+                "nameES":"Suspenso", 
+                "nameFR":"Thriller"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "7c9af1ee-d1ce-97d2-b4a3-f2abea1a150b",
+        "name": "Orange Is the New Black",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjYyM2FmMmMtZDgyZi00NGU3LWI3NzktODllZDY0YzQyNzgyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "genres": [
+            {
+                "id":"d4abdf63-dae3-4857-92c8-5e507f43ef3c",
+                "nameEN":"Comedy", 
+                "nameES":"Comedia", 
+                "nameFR":"Comédie"
+            },
+            {
+                "id":"53a2d079-ec35-4b26-be3f-561311b04f3f",
+                "nameEN":"Crime", 
+                "nameES":"Crimen", 
+                "nameFR":"Crime"
+            },
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "cc485d12-bdcc-331d-c79a-99ba89186af6",
+        "name": "House of Cards",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmM4ODU1MzItODYyYi00Y2U0LWFjZjItYTRhZWIwOGMyZTRhXkEyXkFqcGdeQXVyNjc2NTQ4Nzk@._V1_FMjpg_UX1000_.jpg",
+        "genres": [
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "d1f6b2f3-2be8-22c1-b051-cbe8e9dc8b8b",
+        "name": "American Horror Story",
+        "poster": "https://m.media-amazon.com/images/I/51+Y0zWaWpL.jpg",
+        "genres": [
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            },
+            {
+                "id":"5ae2f56f-3866-4649-9801-bd98922cf39c",
+                "nameEN":"Horror", 
+                "nameES":"Horror", 
+                "nameFR":"Horreur"
+            },
+            {
+                "id":"2efc15d8-d5d1-4baa-b1eb-6bd8f71bfda2",
+                "nameEN":"Sci-Fi", 
+                "nameES":"Ciencia Ficción", 
+                "nameFR":"Science-Fiction"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "3350cca5-dd6f-1d8e-be9a-a6a4990f3caa",
+        "name": "The Haunting of Hill House",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTU4NzA4MDEwNF5BMl5BanBnXkFtZTgwMTQxODYzNjM@._V1_.jpg",
+        "genres": [
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            },
+            {
+                "id":"5ae2f56f-3866-4649-9801-bd98922cf39c",
+                "nameEN":"Horror", 
+                "nameES":"Horror", 
+                "nameFR":"Horreur"
+            },
+            {
+                "id":"79b43996-98e8-475b-9dfb-e67c55e04a46",
+                "nameEN":"Mystery", 
+                "nameES":"Misterio", 
+                "nameFR":"Mystère"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "2ec9fd08-30f8-dbd3-dc54-359fbb42f189",
+        "name": "Doctor Who",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjM0N2I0OTktN2NmOS00YThmLTlkODMtMWQyOTQ4MDlkMzcxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",
+        "genres": [
+            {
+                "id":"70f8a36c-9169-4d3b-9e26-071f012e28aa",
+                "nameEN":"Adventure", 
+                "nameES":"Aventura", 
+                "nameFR":"Aventure"
+            },
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            },
+            {
+                "id":"2efc15d8-d5d1-4baa-b1eb-6bd8f71bfda2",
+                "nameEN":"Sci-Fi", 
+                "nameES":"Ciencia Ficción", 
+                "nameFR":"Science-Fiction"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "fbc39b0a-ada7-64d2-e0b5-c5cc8c7ccb42",
+        "name": "The Witcher",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDEwOWVlY2EtMWI0ZC00OWVmLWJmZGItYTk3YjYzN2Y0YmFkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",
+        "genres": [
+            {
+                "id":"499eb266-d4ee-4cb0-8a29-604fd4cfb90a",
+                "nameEN":"Action", 
+                "nameES":"Acción", 
+                "nameFR":"Action"
+            },
+            {
+                "id":"70f8a36c-9169-4d3b-9e26-071f012e28aa",
+                "nameEN":"Adventure", 
+                "nameES":"Aventura", 
+                "nameFR":"Aventure"
+            },
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            }
+        ],
+        "watching": []
+    },
+    {
+        "id": "2f6a697d-49c7-4b31-99bb-d9a4aff4006c",
+        "name": "Yo soy Betty, la Fea",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2U4YzM5ZTItNGFmZi00MDRhLTgyMjUtZDJjMTI2ZmU5ZjNlXkEyXkFqcGdeQXVyMTcxNTYyMjM@._V1_FMjpg_UX1000_.jpg",
+        "genres": [
+            {
+                "id":"d4abdf63-dae3-4857-92c8-5e507f43ef3c",
+                "nameEN":"Comedy", 
+                "nameES":"Comedia", 
+                "nameFR":"Comédie"
+            },
+            {
+                "id":"f383a1b3-ca0c-4e16-b7b1-7198de7929e5",
+                "nameEN":"Drama", 
+                "nameES":"Drama", 
+                "nameFR":"Drame"
+            },
+            {
+                "id":"416663d9-9a7a-4419-82c6-169c6c5c5052",
+                "nameEN":"Romance", 
+                "nameES":"Romance", 
+                "nameFR":"Romance"
+            }
+        ],
+        "watching": []
+    }
+]

@@ -1,0 +1,10 @@
+.LO-button{
+    color: #707070;
+    font-weight: inherit !important;
+    font-size: 3.3vmin;
+    text-decoration: underline;
+    margin-top: 5vmin;
+    background-color: transparent;
+    padding: 0 !important;
+    border: none !important;
+}
